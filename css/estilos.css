@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+#container{
+    margin:0 auto;
+    padding: 15px;
+    width: 70%;
+    border: 2px solid black;
+    color:darkcyan;
+    text-align: center;
+    
+    
+}
+
+ol li {
+    margin-top: 10px;
+    list-style: none;
+    letter-spacing: 1px;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
