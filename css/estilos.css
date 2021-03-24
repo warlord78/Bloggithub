@@ -6,6 +6,7 @@
 
 body{
     font-family: Arial;
+    color:red;
 }
 
 #container{
@@ -13,9 +14,8 @@ body{
     padding:0;
     width: 70%;
     border: 2px solid black;
-    color:black;
-
-    
+   
+  
     
 }
 ol li {
@@ -23,7 +23,6 @@ ol li {
     list-style: none;
     padding:2px;
     letter-spacing: 1px;
-    color:indianred;
     font-size: 13px;
    
 }
