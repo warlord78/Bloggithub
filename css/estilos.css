@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+    color:blue;
+
+}
+
+#container{
+    margin:0 auto;
+    padding:0;
+    width: 70%;
+    border: 2px solid black;
+}
+ol li {
+    margin-top: 5px;
+    list-style: none;
+    padding:2px;
+    letter-spacing: 1px;
+    font-size: 13px;
+   
+}
+
+#cabecera{
+    background: crimson;
+    margin:0;
+    text-align: left;
+    font-weight: bold;
+    padding: 0.5em;
+    color:rgb(253, 253, 253);
+    
+  }
+  #cabecera #tagline{
+         margin:  0 0 0 1em;
+         font-weight: normal;
+         font-size: 0.8em;
+    }
