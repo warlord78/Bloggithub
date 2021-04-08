@@ -6,8 +6,12 @@
 
 body{
     font-family: Arial;
+<<<<<<< HEAD
     color:red;
 
+=======
+    color:green;
+>>>>>>> cabecera
 }
 
 #container{
