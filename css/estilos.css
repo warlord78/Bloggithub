@@ -7,11 +7,16 @@
 body{
     font-family: Arial;
 <<<<<<< HEAD
+<<<<<<< HEAD
     color:red;
 
 =======
     color:green;
 >>>>>>> cabecera
+=======
+    color:blue;
+
+>>>>>>> 8af6f60a038c82f5b114ad203726a768f2316d0b
 }
 
 #container{
